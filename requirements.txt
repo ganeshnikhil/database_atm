@@ -1,0 +1,3 @@
+Fernet
+Sqlite3
+PrettyTable
