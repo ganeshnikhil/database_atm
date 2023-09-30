@@ -104,11 +104,11 @@ NAME: John Doe
 DATE AND TIME OF CREATION: 2023-09-30 19:46:07 PST
 AMOUNT: 75
 
-Type      | Date      | Time      | ID        | Amount
-------- | -------- | -------- | -------- | --------
-          | 2023-09-30 | 19:46:07 |           | 100
-Deposit  | 2023-09-30 | 19:46:07 |           | 50
-Withdraw | 2023-09-30 | 19:46:07 |           | 25
+Type     | Date       | Time     | ID        | Amount
+-------  | --------   | -------- | --------  | --------
+         | 2023-09-30 | 19:46:07 | None      | 100
+Deposit  | 2023-09-30 | 19:46:07 | None      | 50
+Withdraw | 2023-09-30 | 19:46:07 | None      | 25
 
 Would you like to continue? (y/n)
 ```
