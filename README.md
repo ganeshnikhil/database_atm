@@ -149,7 +149,7 @@ This function creates a new bank account for the user. It generates a unique acc
 
 **`check_account()`**
 
-This function checks the balance of the user's bank account. It retrieves the account data from the JSON file and displays the account balance to the user.
+This function checks the balance of the user's bank account. It retrieves the account  basic info from SQL file then decode JSON file and displays the account balance to the user.
 
 **`deposit_account()`**
 
@@ -165,7 +165,7 @@ This function transfers money from one bank account to another. It retrieves the
 
 **`delete_account()`**
 
-This function deletes the user's bank account. It deletes the account data from the JSON file and the JSON file itself.
+This function deletes the user's bank account. It deletes the account data from the SQL file and the JSON file itself.
 
 **`main()`**
 
